@@ -20,6 +20,9 @@ header p {
   padding: 20px 0;
   color: #220330;
 }
+header p a {
+  color: #220330;
+}
 header p span {
   color: rgb(173, 7, 250);
 }

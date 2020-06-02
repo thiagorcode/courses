@@ -1,0 +1,81 @@
+@charset "utf-8";
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style-type: none;
+  font-family: "Play", sans-serif;
+}
+.center {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 2%;
+}
+header {
+  background-color: rgba(0, 212, 255, 1);
+}
+header p {
+  font-size: 34px;
+  padding: 20px 0;
+  color: #220330;
+}
+header p span {
+  color: rgb(173, 7, 250);
+}
+body {
+  background-color: #f5f5f5;
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+main .title {
+  text-align: center;
+}
+main .title h1 {
+  font-weight: 300;
+  font-size: 48px;
+}
+main .my-courses {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+main .my-courses .box-courses {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 3px solid rgba(0, 213, 255, 0.589);
+  border-radius: 12px;
+  text-align: center;
+  width: 20%;
+  height: 100px;
+  margin: 5px;
+  box-shadow: 8px 8px 8px 0 rgba(122, 122, 122, 0.589);
+}
+main .my-courses .box-courses:hover {
+  box-shadow: 4px 3px 15px 0 rgba(2, 87, 214, 0.589);
+}
+main .my-courses .box-courses a {
+  color: rgb(1, 41, 39);
+  padding: 5px;
+  font-size: 18px;
+}
+main .my-courses .box-courses a:hover {
+  color: blue;
+  font-size: 18.5px;
+}
+
+@media screen and (max-width: 600px) {
+  main .my-courses .box-courses {
+    width: 30%;
+  }
+}
+@media screen and (max-width: 350px) {
+  main .my-courses .box-courses {
+    width: 40%;
+    margin: 3px;
+  }
+}

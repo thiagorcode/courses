@@ -24,7 +24,7 @@
 <p>17 - <a href="https://www.devmedia.com.br/python/" target="_blank">Curso Python DevMedia</a><p>
 <p>18 - <a href="https://www.aprendareact.com.br/cursos/iniciando-em-react#" target="_blank">Aprenda React</a><p>
 <p>19 - <a href="https://jornadadodev.com.br" target="_blank">Jornada do Dev</a><p>
-<p>20 - <a href=" https://www.ev.org.br/" target="_blank">Fundação Bradesco</a><p>
+<p>20 - <a href="https://www.ev.org.br/" target="_blank">Fundação Bradesco</a><p>
 <p>21 - <a href="http://www.brasilmaisdigital.org.br/index.php/pt-br/" target="_blank">Brasil Mais Digital</a><p>
 <p>22 - <a href="https://balta.io" target="_blank">Balta</a><p>
 

@@ -28,3 +28,11 @@
 <p>21 - <a href="http://www.brasilmaisdigital.org.br/index.php/pt-br/" target="_blank">Brasil Mais Digital</a><p>
 <p>22 - <a href="https://balta.io" target="_blank">Balta</a><p>
 
+23 - [ViaRápida](http://www.viarapida.sp.gov.br/virtual/cursos "ViaRápida)
+
+24 - [Lumina](https://lumina.ufrgs.br/course/ "Lumina")
+
+25 - [Cate](https://cate.prefeitura.sp.gov.br/tecnologia "Cate")
+
+26 - [Cursos Gratuitos](https://cursosgratuitos.biz "Cursos Gratuitos")
+
